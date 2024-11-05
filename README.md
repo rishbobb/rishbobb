@@ -1,5 +1,6 @@
 ### I'm Rishabh 
 
-- sorta a full stack developer
-- C++, Python, Javascript, Java
+- AI
+- fullstack web apps
+- JS, TS, python, C++, Java, electron, React, Next.JS, Remix
 - https://youtube.com/rishbob
