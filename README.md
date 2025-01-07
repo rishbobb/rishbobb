@@ -1,4 +1,4 @@
-### I'm Rishabh 
+### I'm Rishabh Roy
 
 - AI
 - fullstack web apps
